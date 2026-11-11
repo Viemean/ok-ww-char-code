@@ -10,7 +10,8 @@ const TEAMS_JSON_PATH = path.join(ROOT_DIR, 'teams.json');
 const INDEX_HTML_PATH = path.join(ROOT_DIR, 'index.html');
 const CNAME_PATH = path.join(ROOT_DIR, 'CNAME');
 
-const BASE_DOMAIN = 'okwwcharcode.ok-script.com';
+const REPO = getGithubRepo();
+const BASE_DOMAIN = `raw.githubusercontent.com/${REPO}/main`;
 const BASE_URL = `https://${BASE_DOMAIN}`;
 
 function getGitCommitTimestamp(filePath) {
@@ -886,9 +887,11 @@ function main() {
   const rawItems = parseZipFiles();
   const groupedTeams = groupDataByTeam(rawItems);
 
-  // 1. Ensure CNAME exists
-  fs.writeFileSync(CNAME_PATH, `${BASE_DOMAIN}\n`, 'utf8');
-  console.log(`[OK] Configured CNAME: ${BASE_DOMAIN}`);
+  // 1. Remove stale CNAME for raw.githubusercontent.com hosting
+  if (fs.existsSync(CNAME_PATH)) {
+    fs.unlinkSync(CNAME_PATH);
+    console.log(`[OK] Removed stale CNAME`);
+  }
 
   // 2. Ensure teams directory exists and clean old files
   if (fs.existsSync(TEAMS_DIR)) {
