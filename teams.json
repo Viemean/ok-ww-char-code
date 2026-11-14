@@ -2,8 +2,8 @@
   "repository": "Viemean/ok-ww-char-code",
   "pageUrl": "https://raw.githubusercontent.com/Viemean/ok-ww-char-code/main",
   "jsonUrl": "https://raw.githubusercontent.com/Viemean/ok-ww-char-code/main/teams.json",
-  "totalTeams": 51,
-  "totalCodes": 75,
+  "totalTeams": 53,
+  "totalCodes": 79,
   "teams": [
     {
       "team": "Baizhi, Phrolova, Verina",
@@ -219,6 +219,38 @@
           "sizeFormatted": "91.56 KB",
           "timestamp": 1787841084,
           "modifiedAt": "2026-08-27T14:31:24.000Z"
+        }
+      ]
+    },
+    {
+      "team": "Aemeath, Denia, Mornye",
+      "slug": "Aemeath_Denia_Mornye",
+      "members": [
+        "Aemeath",
+        "Denia",
+        "Mornye"
+      ],
+      "totalCodes": 1,
+      "jsonUrl": "https://raw.githubusercontent.com/Viemean/ok-ww-char-code/main/teams/Aemeath_Denia_Mornye.json",
+      "codes": [
+        {
+          "filename": "Aemeath_Denia_Mornye_绯华永眠_1.0.0.zip",
+          "downloadUrl": "https://raw.githubusercontent.com/Viemean/ok-ww-char-code/main/codes/Aemeath_Denia_Mornye_%E7%BB%AF%E5%8D%8E%E6%B0%B8%E7%9C%A0_1.0.0.zip",
+          "rawUrl": "https://raw.githubusercontent.com/Viemean/ok-ww-char-code/main/codes/Aemeath_Denia_Mornye_%E7%BB%AF%E5%8D%8E%E6%B0%B8%E7%9C%A0_1.0.0.zip",
+          "name": "Aemeath_Denia_Mornye",
+          "description": "学妹聚爆，基于基本角色代码微调",
+          "author": "绯华永眠",
+          "version": "1.0.0",
+          "team": "Aemeath, Denia, Mornye",
+          "members": [
+            "Aemeath",
+            "Denia",
+            "Mornye"
+          ],
+          "size": 5224,
+          "sizeFormatted": "5.1 KB",
+          "timestamp": 1794656356,
+          "modifiedAt": "2026-11-14T11:39:16.000Z"
         }
       ]
     },
@@ -1124,8 +1156,8 @@
           ],
           "size": 64989,
           "sizeFormatted": "63.47 KB",
-          "timestamp": 1794415912,
-          "modifiedAt": "2026-11-11T16:51:52.000Z"
+          "timestamp": 1794416216,
+          "modifiedAt": "2026-11-11T16:56:56.000Z"
         },
         {
           "filename": "Denia_Mornye_Qingxiao_楽山_1.0.0.zip",
@@ -1404,6 +1436,38 @@
       ]
     },
     {
+      "team": "Hiyuki, Sanhua, Verina",
+      "slug": "Hiyuki_Sanhua_Verina",
+      "members": [
+        "Hiyuki",
+        "Sanhua",
+        "Verina"
+      ],
+      "totalCodes": 1,
+      "jsonUrl": "https://raw.githubusercontent.com/Viemean/ok-ww-char-code/main/teams/Hiyuki_Sanhua_Verina.json",
+      "codes": [
+        {
+          "filename": "Hiyuki_Sanhua_Verina_我不是懒狗_1.0.0.zip",
+          "downloadUrl": "https://raw.githubusercontent.com/Viemean/ok-ww-char-code/main/codes/Hiyuki_Sanhua_Verina_%E6%88%91%E4%B8%8D%E6%98%AF%E6%87%92%E7%8B%97_1.0.0.zip",
+          "rawUrl": "https://raw.githubusercontent.com/Viemean/ok-ww-char-code/main/codes/Hiyuki_Sanhua_Verina_%E6%88%91%E4%B8%8D%E6%98%AF%E6%87%92%E7%8B%97_1.0.0.zip",
+          "name": "Hiyuki_Sanhua_Verina",
+          "description": "大世界队伍，超低配队，都是0+0，共率高点不卡手，可以打出三居合",
+          "author": "我不是懒狗",
+          "version": "1.0.0",
+          "team": "Hiyuki, Sanhua, Verina",
+          "members": [
+            "Hiyuki",
+            "Sanhua",
+            "Verina"
+          ],
+          "size": 4448,
+          "sizeFormatted": "4.34 KB",
+          "timestamp": 1794656355,
+          "modifiedAt": "2026-11-14T11:39:15.000Z"
+        }
+      ]
+    },
+    {
       "team": "Hsin, Jinhsi, Shorekeeper",
       "slug": "Hsin_Jinhsi_Shorekeeper",
       "members": [
@@ -1411,7 +1475,7 @@
         "Jinhsi",
         "Shorekeeper"
       ],
-      "totalCodes": 1,
+      "totalCodes": 2,
       "jsonUrl": "https://raw.githubusercontent.com/Viemean/ok-ww-char-code/main/teams/Hsin_Jinhsi_Shorekeeper.json",
       "codes": [
         {
@@ -1432,6 +1496,25 @@
           "sizeFormatted": "47.06 KB",
           "timestamp": 1791428798,
           "modifiedAt": "2026-10-08T03:06:38.000Z"
+        },
+        {
+          "filename": "Hsin_Jinhsi_Shorekeeper_阿瞎_1.0.21.zip",
+          "downloadUrl": "https://raw.githubusercontent.com/Viemean/ok-ww-char-code/main/codes/Hsin_Jinhsi_Shorekeeper_%E9%98%BF%E7%9E%8E_1.0.21.zip",
+          "rawUrl": "https://raw.githubusercontent.com/Viemean/ok-ww-char-code/main/codes/Hsin_Jinhsi_Shorekeeper_%E9%98%BF%E7%9E%8E_1.0.21.zip",
+          "name": "Hsin_Jinhsi_Shorekeeper",
+          "description": "心汐守轴，120共效心已跑通，今汐全程不开大招无共效需求，也不要手动开启大招，大招问题等待后续优化。轴参考B站@一只迷茫的猪基础上做出改动。后续可能会继续优化轴长问题，争取压进30秒",
+          "author": "阿瞎",
+          "version": "1.0.21",
+          "team": "Hsin, Jinhsi, Shorekeeper",
+          "members": [
+            "Hsin",
+            "Jinhsi",
+            "Shorekeeper"
+          ],
+          "size": 13580,
+          "sizeFormatted": "13.26 KB",
+          "timestamp": 1794656355,
+          "modifiedAt": "2026-11-14T11:39:15.000Z"
         }
       ]
     },
@@ -1462,8 +1545,8 @@
           ],
           "size": 84861,
           "sizeFormatted": "82.87 KB",
-          "timestamp": 1794415912,
-          "modifiedAt": "2026-11-11T16:51:52.000Z"
+          "timestamp": 1794416216,
+          "modifiedAt": "2026-11-11T16:56:56.000Z"
         },
         {
           "filename": "Hsin_Rover_Suisui_楽山_1.1.0.zip",
@@ -1679,7 +1762,7 @@
         "Mornye",
         "Rebecca"
       ],
-      "totalCodes": 1,
+      "totalCodes": 2,
       "jsonUrl": "https://raw.githubusercontent.com/Viemean/ok-ww-char-code/main/teams/Lucy_Mornye_Rebecca.json",
       "codes": [
         {
@@ -1700,6 +1783,25 @@
           "sizeFormatted": "45.71 KB",
           "timestamp": 1789440519,
           "modifiedAt": "2026-09-15T02:48:39.000Z"
+        },
+        {
+          "filename": "Lucy_Mornye_Rebecca_芝士奶酪_1.0.0.zip",
+          "downloadUrl": "https://raw.githubusercontent.com/Viemean/ok-ww-char-code/main/codes/Lucy_Mornye_Rebecca_%E8%8A%9D%E5%A3%AB%E5%A5%B6%E9%85%AA_1.0.0.zip",
+          "rawUrl": "https://raw.githubusercontent.com/Viemean/ok-ww-char-code/main/codes/Lucy_Mornye_Rebecca_%E8%8A%9D%E5%A3%AB%E5%A5%B6%E9%85%AA_1.0.0.zip",
+          "name": "Lucy_Mornye_Rebecca-5r双处决",
+          "description": "【使用说明｜露西·丽贝卡·莫宁 5R双处决】\n1. 共鸣链：最低适配【待测试】；实机测试配置：露西61（专武）、丽贝卡01（专武）、莫宁10。以上是测试配置，暂不代表最低要求。\n2. 共鸣效率：最低适配【待测试】；实机测试值：露西108.4%、丽贝卡149.2%、莫宁261.8%。武器/声骸/效率变化可能影响循环。\n3. 一号位：露西。\n4. 自动切换治疗位：关闭 OK-WW 的“开局切奶妈/自动切治疗位”功能，避免打乱开场角色。\n5. 必要提醒：本轴适用于深塔和矩阵。开场需要完成自动索敌确认，再执行露西Z—闪避—续Z。首次使用请实机检查切人、技能及预输入是否正常。\n6. 轴特色：5R双处决循环；F/Q机会技能、特殊Z跨STEP预输入和HOLD继承、丽贝卡强化Z消费确认及偏斜CD保护。\n7. 版本规范：当前1.0.0（按现有版本保留）。\n联系：3群，QQ 1551547950。",
+          "author": "芝士奶酪",
+          "version": "1.0.0",
+          "team": "Lucy, Mornye, Rebecca",
+          "members": [
+            "Lucy",
+            "Mornye",
+            "Rebecca"
+          ],
+          "size": 65167,
+          "sizeFormatted": "63.64 KB",
+          "timestamp": 1794656355,
+          "modifiedAt": "2026-11-14T11:39:15.000Z"
         }
       ]
     },
@@ -2005,8 +2107,8 @@
           ],
           "size": 43339,
           "sizeFormatted": "42.32 KB",
-          "timestamp": 1794415912,
-          "modifiedAt": "2026-11-11T16:51:52.000Z"
+          "timestamp": 1794416216,
+          "modifiedAt": "2026-11-11T16:56:56.000Z"
         }
       ]
     },
